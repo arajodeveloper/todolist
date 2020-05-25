@@ -1,0 +1,37 @@
+.todoItem {
+    /* margin: 10pxs; */
+    cursor: pointer;
+}
+
+
+.prettyBox {
+    background-color: pink;
+    border-radius: 6px;
+    margin-top: 20px;
+    height: 90vh;
+}
+
+.todobox {
+    background-color: rgb(180, 170, 170);
+    border-radius: 5px;
+    margin-top: 10px;
+    color: white;
+    width: 41%;
+    height: 39px;
+    font-family: 'Roboto';
+    font-size: 17px;  
+}
+
+.inputbox {
+    margin-top: 10px;
+}
+
+#trashcan {
+    margin: 10px;
+    cursor: pointer;
+}
+
+button {
+    background-color: yellowgreen;
+    font-family: 'Roboto';
+}
